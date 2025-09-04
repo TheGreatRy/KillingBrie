@@ -1,7 +1,7 @@
 # 🧀 Killing Brie  
 *A First-Person Rodent Rampage by the Mouseketeers*
 
-![Killing Brie Banner](banner.png) <!-- Optional: Replace with actual banner image if available -->
+<img width="700" height="976" alt="image" src="https://github.com/user-attachments/assets/84610df7-f397-4855-83cd-62cdc0f5e504" />
 
 ## 🎮 Overview
 
