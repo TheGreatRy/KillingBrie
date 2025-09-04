@@ -38,6 +38,18 @@
 
 ---
 
+## 🎲 Controls
+- Movement -- WASD
+- Switch Weapons -- TAB
+- Fire Weapons -- Left Mouse
+- Pause -- R
+
+**CHEAT KEYS**
+- Auto Win -- G
+- Auto Lose -- K
+
+---
+
 ## 🧀 About the Team
 
 **The Mouseketeers** is an indie development team passionate about storytelling, world-building, and unexpected heroes (especially small, squeaky ones).
