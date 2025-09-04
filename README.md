@@ -33,6 +33,9 @@
 ## 🧀 About the Team
 
 **The Mouseketeers** is an indie development team passionate about storytelling, world-building, and unexpected heroes (especially small, squeaky ones).
+Ry Ellender -- Gameplay Developer
+Surya Nandeesh -- Gameplay Developer
+Aiden Sanders -- Level Design
 
 ---
 
